@@ -1,0 +1,43 @@
+Terms of Service — Braum Bot
+1. Présentation
+
+Braum Bot est un bot Discord destiné à un usage privé, limité au serveur Discord autorisé par son propriétaire.
+L’application est développée et exploitée à titre non commercial. Elle a pour objectif de fournir des fonctionnalités liées au jeu Teamfight Tactics (TFT), notamment la consultation d’historiques de parties et de statistiques.
+
+2. Accès et utilisation
+
+L’accès à Braum Bot est réservé aux membres du serveur Discord privé approuvé par l’administrateur.
+Toute utilisation du bot sur un autre serveur ou à des fins non autorisées est interdite sans accord préalable du propriétaire.
+
+3. Données collectées
+
+Braum Bot collecte et traite les données suivantes :
+
+Identifiant Discord (user ID)
+
+Identifiant Riot Games (puuid ou summoner name)
+Ces données sont utilisées uniquement pour relier un utilisateur Discord à son profil TFT et permettre l’affichage des statistiques correspondantes.
+Aucune autre donnée personnelle n’est collectée ni transmise à des tiers.
+
+4. Conservation et suppression des données
+
+Les données sont conservées uniquement le temps nécessaire au bon fonctionnement du bot.
+Un utilisateur peut demander la suppression de ses données en contactant l’administrateur du bot via Discord.
+
+5. Responsabilité
+
+Le propriétaire du bot ne garantit pas la disponibilité continue du service.
+Aucune responsabilité ne peut être engagée en cas de perte de données, d’erreur de traitement ou d’interruption du service.
+
+6. Propriété intellectuelle
+
+Les éléments du bot, y compris le code, la documentation et les logos, demeurent la propriété du développeur.
+Les marques Riot Games, Teamfight Tactics et Discord appartiennent à leurs détenteurs respectifs et ne sont utilisées qu’à des fins d’identification.
+
+7. Modifications
+
+Ces conditions peuvent être modifiées à tout moment. Les utilisateurs du serveur privé seront notifiés en cas de changement significatif.
+
+8. Contact
+
+Pour toute question ou demande de suppression de données, contacter l’administrateur via Discord.
